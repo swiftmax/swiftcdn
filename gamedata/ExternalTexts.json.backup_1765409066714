@@ -26677,14 +26677,10 @@
   "badge_desc_SW00021": "Eyvah! Gargamel bizi buldu..",
   "badge_name_SWC01": "cicek",
   "badge_desc_SWC01": "Swift'in cicek'i!",
+  "badge_name_LAGERTHA": "Lagertha",
+  "badge_desc_LAGERTHA": "Nam-ı Diğer Leona",
   "badge_name_SW00023": "Noel'in Yardımcısı",
   "badge_desc_SW00023": "Bu Noel'i kurtarmak bana düştü.",
   "badge_name_SW00024": "Mutlu Aile Tablosu",
-  "badge_desc_SW00024": "Bütün komşuların yardımına koştum!",
-  "badge_name_DDC01": "Max",
-  "badge_desc_DDC01": "Ejderha",
-  "badge_name_ADM": "Hotel Personeli",
-  "badge_desc_ADM": "Swift Hotel Personeli",
-  "badge_name_LAGERTHA01": "Lagertha",
-  "badge_desc_LAGERTHA01": "nam-ı diğer leona"
+  "badge_desc_SW00024": "Bütün komşuların yardımına koştum!"
 }
