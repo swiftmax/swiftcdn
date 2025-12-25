@@ -17577,7 +17577,7 @@
   "navigator.searchcode.title.myworld_view": "Odalarım",
   "navigator.searchcode.title.new_ads": "New Events",
   "navigator.searchcode.title.official-root": "Resmi Odalar",
-  "navigator.searchcode.title.official": "Personelin Seçtikleri",
+  "navigator.searchcode.title.official": "Resmi Odalar",
   "navigator.searchcode.title.popular": "Tüm Odalar",
   "navigator.searchcode.title.query": "Kelime İle Arama",
   "navigator.searchcode.title.recommended": "Önerilen Odalar",
@@ -26718,13 +26718,5 @@
   "badge_name_SWIFTM4": "4/4",
   "badge_desc_SWIFTM4": "Yılbaşı macerasından eksik kalmadım!",
   "badge_name_SWJAWZ": "Swift Muhtarı",
-  "badge_desc_SWJAWZ": "Muhtarım nereye gidersin?",
-  "badge_name_SW00045": "ROTW-1 Katılımcısı",
-  "badge_desc_SW00045": "ROTW-1 yarışmasında eserimi sergiledim!",
-  "badge_name_SW00047": "ROTW#1 - İkincisi",
-  "badge_desc_SW00047": "ROTW#1 Yarışmasında ikinci oldum!",
-  "badge_name_SW00046": "ROTW#1 - Üçüncüsü",
-  "badge_desc_SW00046": "ROTW#1 Yarışmasında üçüncü oldum!",
-  "badge_name_SW00048": "ROTW#1 - Birincisi",
-  "badge_desc_SW00048": "ROTW#1 Yarışmasını kazandım!"
+  "badge_desc_SWJAWZ": "Muhtarım nereye gidersin?"
 }
