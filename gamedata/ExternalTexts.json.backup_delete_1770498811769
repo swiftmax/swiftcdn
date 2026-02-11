@@ -26825,12 +26825,12 @@
   "badge_desc_SWY06": "Swift'e sağladığın katkılar için.",
   "badge_name_SWFT63": "ROTW Katılımcısı",
   "badge_desc_SWFT63": "ROTW yarışmasında eserimi sergiledim!",
-  "badge_name_SWFT62": "ROTW#3 - Birincisi",
-  "badge_desc_SWFT62": "ROTW#3 yarışmasında birinciydim!",
-  "badge_name_SWFT61": "ROTW#3 - İkincisi",
-  "badge_desc_SWFT61": "ROTW#3 yarışmasında ikinciydim!",
-  "badge_name_SWFT60": "ROTW#3 - Üçüncüsü",
-  "badge_desc_SWFT60": "ROTW#3 yarışmasında üçüncüydüm!",
+  "badge_name_SWFT62": "ROTW#4 - Birincisi",
+  "badge_desc_SWFT62": "ROTW#4 yarışmasında birinciydim!",
+  "badge_name_SWFT61": "ROTW#4 - İkincisi",
+  "badge_desc_SWFT61": "ROTW#4 yarışmasında ikinciydim!",
+  "badge_name_SWFT60": "ROTW# - Üçüncüsü",
+  "badge_desc_SWFT60": "ROTW#4 yarışmasında üçüncüydüm!",
   "badge_name_SWE0001": "Mahkeme Galibi",
   "badge_desc_SWE0001": "Mahkeme etkinliğinde duruşma kazandım!",
   "badge_name_SWFD049": "Olay Yeri",
@@ -26850,7 +26850,5 @@
   "badge_name_SADIK1102": "Supervisor",
   "badge_desc_SADIK1102": "Düzenek ve Tasarım",
   "badge_name_SWS0035": "Scuderia Ferrari",
-  "badge_desc_SWS0035": "Grazzie ragazzi, forza Ferrari!",
-  "badge_name_SWS0036": "Scuderia Ferrari",
-  "badge_desc_SWS0036": "Grazzie ragazzi, forza Ferrari!"
+  "badge_desc_SWS0035": "Şahlanan at."
 }
