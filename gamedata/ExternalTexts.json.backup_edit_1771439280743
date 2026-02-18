@@ -26850,7 +26850,7 @@
   "badge_name_SADIK1101": "Supervisor",
   "badge_desc_SADIK1101": "Düzenek ve Tasarım Ustası",
   "badge_name_SADIK1102": "Supervisor",
-  "badge_desc_SADIK1102": "Etkinlik planlamak ve oluşturmak benden sorulur.",
+  "badge_desc_SADIK1102": "Düzenek ve Tasarım",
   "badge_name_SWS0035": "Scuderia Ferrari",
   "badge_desc_SWS0035": "Grazzie ragazzi, forza Ferrari!",
   "badge_name_MZJRS01": "Jurassic Labirenti 1/4",
@@ -26874,9 +26874,5 @@
   "badge_name_SADIK02": "Tasarım Uzmanı",
   "badge_desc_SADIK02": "Çevrede gördüğün birçok tasarım benim eserim!",
   "badge_name_SWY4441": "Swift Kıdem Nişanı",
-  "badge_desc_SWY4441": "Varlığın bizler ve Swift için çok kıymetli.",
-  "badge_name_RMZ003": "Hoş geldin ya şehri Ramazan!",
-  "badge_desc_RMZ003": "Swift Hotel'de geçen Ramazan bir ayrı olurmuş.",
-  "badge_name_AFK": "AFK",
-  "badge_desc_AFK": "Kendini bitkin hissediyor olabilir."
+  "badge_desc_SWY4441": "Varlığın bizler ve Swift için çok kıymetli."
 }
