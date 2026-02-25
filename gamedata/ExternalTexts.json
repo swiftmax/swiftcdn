@@ -3881,7 +3881,7 @@
   "badge_desc_ITA86": "İkinci Oldum! Konu: Masal !",
   "badge_desc_ITA93": "",
   "badge_desc_ITA95": "İyi Bayramlar !",
-  "badge_desc_ITA99": "Çiftlikte kickwars yapmak mı? wow",
+  "badge_desc_ITA99": "Güneş, toprak ve huzur.",
   "badge_desc_ITB13": "Habbonat Açlık Oyunları Macerası",
   "badge_desc_ITB14": "",
   "badge_desc_ITB15": "Bende katıldım! Konu: Eski Çağ Efs. !",
@@ -9619,7 +9619,7 @@
   "badge_name_ITA86": "Swiftler.com [Haftanın Karesi] 16. Tur!",
   "badge_name_ITA93": "[Swiftler.com] MasterChef",
   "badge_name_ITA95": "Habboloji Kurban Bayramı",
-  "badge_name_ITA99": "Swiftler.com Çiftlik!",
+  "badge_name_ITA99": "Swift Çiftliği",
   "badge_name_ITB13": "Açlık Oyunları / Alaycı Kuş",
   "badge_name_ITB14": "[Swiftler.com] Antik Efsane",
   "badge_name_ITB15": "Swiftler.com [Haftanın Karesi] 7. Tur",
@@ -26885,5 +26885,7 @@
   "badge_name_BAHAR01": "Baltanın Asaleti",
   "badge_desc_BAHAR01": "2026 Bahar Festivali",
   "badge_name_BAHAR02": "Kılıcın Keskinliği",
-  "badge_desc_BAHAR02": "2026 Bahar Festivali"
+  "badge_desc_BAHAR02": "2026 Bahar Festivali",
+  "badge_name_SADIK05": "Squid Game",
+  "badge_desc_SADIK05": "Oyun yöneticisi veya askerlerden biriyim."
 }
