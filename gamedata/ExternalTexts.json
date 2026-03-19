@@ -17442,6 +17442,7 @@
   "navigator.roomranking": "En fazla puan alan odalar derecesi:",
   "navigator.roomrating": "Puan:",
   "navigator.roomsettings.advanced_settings": "Gelişmiş Ayarlar",
+  "navigator.roomsettings.disable_vip_commands": "VİP Özelliklerini kapat",
   "navigator.roomsettings.advancedcaption": "Gelişmiş oda ayarları",
   "navigator.roomsettings.allow_dynamic_categories": "Odaları Mobi içeriğine göre listele",
   "navigator.roomsettings.allow_walk_through": "Oda içinde iç içe geçiş devreye girsin",
