@@ -4185,7 +4185,7 @@
   "badge_desc_NL012": "Bauherr des Racing Cups",
   "badge_desc_NL024": "Para os melhores visuais de festa junina do Habbo Hotel. 2011.",
   "badge_desc_NL031": "Para a ganhadora do Habbo Rancho dos Encalhados. Dia dos Namorados 2011.",
-  "badge_desc_NL035": "Amsterdam çok uzakta değil!",
+  "badge_desc_NL035": "",
   "badge_desc_NL043": "Perito em solucionar enigmas.",
   "badge_desc_NL049": "Para quem recebeu um mimo no Dia de São Valentim. Fevereiro/2011.",
   "badge_desc_NL050": "Participante do Habbo Rancho dos Encalhados. Dia dos Namorados 2011.",
@@ -9923,7 +9923,7 @@
   "badge_name_NL012": "Racing Cup",
   "badge_name_NL024": "Emblema Canjica",
   "badge_name_NL031": "Vencedora Rancho",
-  "badge_name_NL035": "Hollandalı Ördek",
+  "badge_name_NL035": "Amsterdam çok uzakta değil!",
   "badge_name_NL043": "Detetive Júnior",
   "badge_name_NL049": "Pato Apaixonado",
   "badge_name_NL050": "Joga a Bóia",
@@ -26922,12 +26922,5 @@
   "badge_name_SW00541": "Martenichka",
   "badge_desc_SW00541": "Şans hep seninle olsun!",
   "badge_name_MUSATX1": "Herkes Kendine Yakışanı Yapsın!",
-  "badge_desc_MUSATX1": "Yapsın mı usta? Yapsın usta!",
-  "badge_name_HPP33": "Ateş Ejderhası",
-  "badge_desc_HPP33": "Uysal görünüşüne sakın aldanma!",
-  "badge_name_W26V3": "DLC World 3 Geçiş Kartı - Swiftopia",
-  "badge_desc_W26V3": "‎ ",
-  "badge_name_SWFTR": "Swifter!",
-  "badge_name_NB418": "Çılgın Tavuk!",
-  "badge_desc_NB418": "Çılgın Tavuklar etkinliğini kazandığın için"
+  "badge_desc_MUSATX1": "Yapsın mı usta? Yapsın usta!"
 }
