@@ -1632,7 +1632,7 @@
   "badge_desc_BR534": "Acertei Salvador!",
   "badge_desc_BR535": "Brezilya'dan Gelen Şaheserler",
   "badge_desc_BR536": "O Velho Oeste é mais selvagem e musical aqui no BRPT!",
-  "badge_desc_BR537": "Renkler bana ayak uydurur!",
+  "badge_desc_BR537": "Geografia é comigo mesmo!",
   "badge_desc_BR542": "Eu abracei a minha!",
   "badge_desc_BR543": ".",
   "badge_desc_BR544": "",
@@ -7469,7 +7469,7 @@
   "badge_name_BR534": "Semana da Pátria 3",
   "badge_name_BR535": "Swift Müzesi",
   "badge_name_BR536": "Faroeste Habboclo 2014",
-  "badge_name_BR537": "Otomatik Oyun Step on it Kazananı",
+  "badge_name_BR537": "Stop Universitário II",
   "badge_name_BR542": "Dia da Árvore 2014",
   "badge_name_BR543": "Swift'te Romantizm zamanı",
   "badge_name_BR544": "Araba Yarışları Oda Yarışması - Katılımcı",
@@ -14206,7 +14206,6 @@
   "infostand.button.useproduct_saddle": "Semeri Kullan",
   "infostand.button.useproduct_shampoo": "Şampuanı Kullan",
   "infostand.button.whisper": "Fısılda",
-  "infostand.button.group.whisper": "Fısılda [GRUP]",
   "infostand.crackable_furni.hits_remaining": "Vurma: %hits% / %target%",
   "infostand.group.link.tooltip": "Grup Bilgisini açmak için buraya tıkla",
   "infostand.jukebox.text.creator": "-",
@@ -26975,7 +26974,5 @@
   "badge_name_BF20269": "2026 Bahar Festivali Galibi",
   "badge_desc_BF20269": "2026 Bahar Festivali'nde kazanan takımdaydım!",
   "badge_name_COLOR01": "Otomatik Oyun Renkli Karolar Galibi!",
-  "badge_desc_COLOR01": "Renkleri takip etmem… onları yönetirim.",
-  "badge_name_SWSB01": "Speed Builders Yarışması Galibi!",
-  "badge_desc_SWSB01": "Hızım ve yeteneğimle zirveye çıktım."
+  "badge_desc_COLOR01": "Renkleri takip etmem… onları yönetirim."
 }
