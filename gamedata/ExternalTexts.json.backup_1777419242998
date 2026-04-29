@@ -18831,7 +18831,7 @@
   "purse.pixels.zero.amount.text": "Al",
   "purse.redeem.code.failed_technical": "Teknik hata! Fiş bozdurulamıyor. Lütfen kodların asla aşağıdaki harfleri içermediğini unutmayın: i, l, o, w. Lütfen kodu boşluk bırakmadan girin.",
   "purse.seasonal.currency": "Deniz Kabuğu",
-  "purse.seasonal.currency.106": "Meşe Palamudu",
+   "purse.seasonal.currency.106": "Meşe Palamudu",
   "purse.shells.zero.amount.text": "Bilgi",
   "purse_buy_coins": "Kredi Satın Al",
   "purse_coins": "Kredi",
@@ -26895,10 +26895,6 @@
   "badge_desc_SWFD049": "Gözümden hiçbir şey kaçmaz.",
   "badge_desc_ACH_LegDay": "%limit% karo yürüdüğün için",
   "badge_name_ACH_LegDay": "Bacak Günü %roman%",
-  "badge_name_ACH_LTDEarlyBird": "Erkenci Kuş LTD'yi Kapar %roman%",
-  "badge_desc_ACH_LTDEarlyBird": "%limit% kez ilk dakikalarda başarıyla LTD aldığın için",
-  "badge_name_ACH_LTDPurchaser": "Milyonda Bir %roman%!",
-  "badge_desc_ACH_LTDPurchaser": "%limit% LTD nadire aldığın için",
   "badge_name_ROMA01": "Let him cook!",
   "badge_desc_ROMA01": "Pişirmesine müsaade edin.",
   "badge_name_SWFD050": "Başarılı Dedektif",
@@ -27038,9 +27034,5 @@
   "badge_name_TC602": "Kedi",
   "badge_desc_TC602": "Kedi!",
   "badge_name_KAZMAB": "Papyonlu Kazım",
-  "badge_desc_KAZMAB": "Stil sahibi, karizmatik ve her zaman 'vak vak' demeye hazır.",
-  "badge_name_SWSB02": "Speed Builders İkincisi",
-  "badge_desc_SWSB02": "Speed Builders yarışmasında ikinci oldum!",
-  "badge_name_SWSB03": "Speed Builders Üçüncüsü",
-  "badge_desc_SWSB03": "Speed Builders yarışmasında üçüncü oldum!"
+  "badge_desc_KAZMAB": "Stil sahibi, karizmatik ve her zaman 'vak vak' demeye hazır."
 }
