@@ -27044,11 +27044,5 @@
   "badge_desc_SWSB02": "Speed Builders yarışmasında ikinci oldum!",
   "badge_name_SWSB03": "Speed Builders Üçüncüsü",
   "badge_desc_SWSB03": "Speed Builders yarışmasında üçüncü oldum!",
-  "quests.frank.ROOM.name": "Müdürün Odası",
-  "quests.frank.ROOM.desc": "Müdür Frank otele gelmeden önce odasını temizle!",
-  "quests.frank.ROOM.hint": "Temizlik uzun sürdüğü için belki beklemen gerekiyordur.",
-  "quests.frank.FRANKHAT.name": "Frank'in Şapkası",
-  "quests.frank.FRANKHAT.desc": "Müdürün şapkasını bul ve giy",
-  "quests.frank.FRANKHAT.hint": "Şapka neye benziyor acaba?",
-  "quests.locked.soon": "Yakında"
+  "quests.frank.ROOM.name": "Müdürün Odası"
 }
