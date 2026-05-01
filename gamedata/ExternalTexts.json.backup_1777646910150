@@ -27055,15 +27055,5 @@
   "quests.frank.COMPUTER.name": "Eski Bilgisayar",
   "quests.frank.COMPUTER.desc": "Frank'in külüstür bilgisayarı epey tozlanmış, onu temizle.",
   "quests.frank.COMPUTER.hint": "Bilgisayar burada bir yerde olmalı!",
-  "quests.frank.BALL.name": "Yeşil Plaj Topu",
-  "quests.frank.ball.desc": "Frank için yeşil plaj topunu bul!",
-  "quests.frank.BALL.hint": "Belki Lido'da olabilir.",
-  "badge_name_SWFRANK": "Otel Müdürü Frank",
-  "badge_desc_SWFRANK": "Otel Müdürü Frank görevlerini tamamladım!",
-  "quests.frank.CARPET.name": "Kırmızı Halı",
-  "quests.frank.CARPET.desc": "Frank'i en iyi şekilde karşıla!",
-  "quests.frank.CARPET.hint": "Frank şık bir halı üstünde yürümek istiyor!",
-  "quests.frank.BATH.name": "Jakuzi",
-  "quests.frank.BATH.desc": "Frank'in banyo yapmaya ihtiyacı var.",
-  "quests.frank.BATH.hint": "Git ve Frank için bir jakuzi bul."
+  "quests.frank.BALL.name": "Yeşil Plaj Topu"
 }

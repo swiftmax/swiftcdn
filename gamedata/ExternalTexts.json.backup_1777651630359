@@ -27061,9 +27061,5 @@
   "badge_name_SWFRANK": "Otel Müdürü Frank",
   "badge_desc_SWFRANK": "Otel Müdürü Frank görevlerini tamamladım!",
   "quests.frank.CARPET.name": "Kırmızı Halı",
-  "quests.frank.CARPET.desc": "Frank'i en iyi şekilde karşıla!",
-  "quests.frank.CARPET.hint": "Frank şık bir halı üstünde yürümek istiyor!",
-  "quests.frank.BATH.name": "Jakuzi",
-  "quests.frank.BATH.desc": "Frank'in banyo yapmaya ihtiyacı var.",
-  "quests.frank.BATH.hint": "Git ve Frank için bir jakuzi bul."
+  "quests.frank.CARPET.desc": "Frank'i en iyi şekilde karşıla!"
 }
