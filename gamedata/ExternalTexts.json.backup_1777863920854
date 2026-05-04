@@ -27068,7 +27068,5 @@
   "quests.frank.BATH.hint": "Git ve Frank için bir jakuzi bul.",
   "quests.frank.BALL.desc": "Frank için yeşil plaj topunu bul!",
   "quests.cinema.name": "Sinema",
-  "quests.cinema.CAR.desc": "Ne kadar uzun bir limuzin!",
-  "badge_name_RADYO1": "Radyo Sunucusu",
-  "badge_desc_RADYO1": "Swift Hotel Resmi Radyo Sunucusu."
+  "quests.cinema.CAR.desc": "Ne kadar uzun bir limuzin!"
 }
