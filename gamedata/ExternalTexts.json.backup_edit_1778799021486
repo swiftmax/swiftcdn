@@ -1991,7 +1991,7 @@
   "badge_desc_BR891": "\"O amor não é wi-fi, mas está no ar!\" uma piada de Piadas Nerds!",
   "badge_desc_BR892": "O melhor construtor também gosta de piadas!",
   "badge_desc_BR893": "Fansite etkinligi",
-  "badge_desc_BR894": "Batte Banzai Turnuvası'nda birinci oldum!",
+  "badge_desc_BR894": "",
   "badge_desc_BR895": "Sempre é bom comemorar o grande sucesso da Fã Site Habbonight!",
   "badge_desc_BR896": "Eu comemorei os 15 anos de Habbo Hotel com a fã-site oficial ProHabbo.com.br",
   "badge_desc_BR897": "Toda grande caminhada começa com um simples passo",
@@ -7848,7 +7848,7 @@
   "badge_name_BR891": "Tipos de Namorado",
   "badge_name_BR892": "Central Piadas Nerds",
   "badge_name_BR893": "Habboloncuk Labirent",
-  "badge_name_BR894": "Battle Banzai Turnuvası Kazananı",
+  "badge_name_BR894": "Nostalji Oyunları - Battle Banzai",
   "badge_name_BR895": "Bolo de aniversário",
   "badge_name_BR896": "Fã de carteirinha",
   "badge_name_BR897": "Budismo",
@@ -27072,9 +27072,5 @@
   "badge_name_RADYO1": "Radyo Sunucusu",
   "badge_desc_RADYO1": "Swift Hotel'in resmi radyo sunucusu.",
   "badge_name_CADI1": "Cadı'nın Asistanı",
-  "badge_desc_CADI1": "Kazandaki o kayıp ve gizemli malzemeyi bulup iksiri tamamlamayı başardın!",
-  "badge_name_ANTK1": "Antik Şehir Kaşifi",
-  "badge_desc_ANTK1": "Zamanın unuttuğu, tozlu harabelerin ardındaki sırrı çözdün. Artık bu antik kentin kapıları sana sonsuza dek açık",
-  "badge_name_KPR1": "Unutulmuş Geçit",
-  "badge_desc_KPR1": "Karanlık nehrin üzerindeki eski köprüyü yeniden inşa ettin ve tehlikeli sınırı aştın."
+  "badge_desc_CADI1": "Kazandaki o kayıp ve gizemli malzemeyi bulup iksiri tamamlamayı başardın!"
 }
